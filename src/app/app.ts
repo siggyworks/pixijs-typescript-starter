@@ -1,4 +1,4 @@
-import { bomberFrames } from '../assets/loader';
+import { bomberFrames } from '../../assets/loader';
 import * as PIXI from 'pixi.js';
 
 interface BomberFrames {
